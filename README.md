@@ -27,7 +27,7 @@ Developed with:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/tarunbisht-24/weather-app.git
    cd weather-app
    ```
 
@@ -52,7 +52,7 @@ Developed with:
    Using npm:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    Or using yarn:
